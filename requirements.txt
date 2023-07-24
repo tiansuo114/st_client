@@ -1,0 +1,15 @@
+bokeh
+graphviz
+matplotlib
+mysql_connector_repackaged
+numpy
+pandas
+Pillow
+plotly
+PyMySQL
+streamlit
+mysql-connector-python
+streamlit-aggrid
+scikit-learn
+tqdm
+seaborn
